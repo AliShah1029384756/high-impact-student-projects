@@ -1,5 +1,7 @@
 # Platforms Learning Hub (Detailed)
 
+![Last Reviewed](https://img.shields.io/badge/last%20reviewed-2026--03--19-brightgreen)
+
 This section organizes learning by platform type so students can quickly find the best resource for their current goal.
 
 ## Platform Categories

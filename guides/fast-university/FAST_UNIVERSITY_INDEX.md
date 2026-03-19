@@ -1,5 +1,7 @@
 # FAST University Student and Graduate Resource Hub
 
+![Last Reviewed](https://img.shields.io/badge/last%20reviewed-2026--03--19-brightgreen)
+
 This section is designed for three groups:
 
 1. Applicants who want to join FAST University

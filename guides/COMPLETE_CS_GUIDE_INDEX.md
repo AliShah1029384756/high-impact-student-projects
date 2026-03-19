@@ -1,5 +1,7 @@
 # Complete CS Learning and Productivity Guide (Index)
 
+![Last Reviewed](https://img.shields.io/badge/last%20reviewed-2026--03--19-brightgreen)
+
 This folder contains detailed, separate documents for each major heading in the complete student guide.
 
 ## Quick Routes by Goal

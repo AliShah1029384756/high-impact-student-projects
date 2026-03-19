@@ -1,10 +1,10 @@
 # High-Impact CS Project Ideas (Student Edition)
 
-![Docs](https://img.shields.io/badge/docs-38+-blue)
+![Docs](https://img.shields.io/badge/docs-46+-blue)
 ![Last Updated](https://img.shields.io/badge/last%20updated-2026--03--19-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-black)
 
-Updated stats: 40+ markdown guides and templates.
+Updated stats: 46+ markdown guides and templates.
 
 A curated list of practical software project ideas focused on real student and campus problems.
 
@@ -15,8 +15,49 @@ A curated list of practical software project ideas focused on real student and c
 | Complete guide map | [guides/COMPLETE_CS_GUIDE_INDEX.md](guides/COMPLETE_CS_GUIDE_INDEX.md) |
 | Platform-wise resources | [guides/platforms/PLATFORMS_INDEX.md](guides/platforms/PLATFORMS_INDEX.md) |
 | FAST-specific guidance | [guides/fast-university/FAST_UNIVERSITY_INDEX.md](guides/fast-university/FAST_UNIVERSITY_INDEX.md) |
+| One-page onboarding | [START_HERE.md](START_HERE.md) |
+| Goal-based guide selector | [GUIDE_SELECTION_MATRIX.md](GUIDE_SELECTION_MATRIX.md) |
 | Link verification rules | [guides/fast-university/FAST_LINK_VERIFICATION_GUIDE.md](guides/fast-university/FAST_LINK_VERIFICATION_GUIDE.md) |
 | One-month execution plan | [guides/14-30-DAY-GROWTH-PLAN.md](guides/14-30-DAY-GROWTH-PLAN.md) |
+
+## Architecture Map
+
+```mermaid
+flowchart TD
+	A[START_HERE.md] --> B[Core Guides]
+	A --> C[FAST Hub]
+	A --> D[Graduate and Job Path]
+	A --> E[AI Learning Path]
+
+	B --> B1[guides/01-CS-FOUNDATIONS.md]
+	B --> B2[guides/03-WEB-DEVELOPMENT.md]
+	B --> B3[guides/14-30-DAY-GROWTH-PLAN.md]
+
+	C --> C1[guides/fast-university/FAST_UNIVERSITY_INDEX.md]
+	C1 --> C2[Applicants]
+	C1 --> C3[Current Students]
+	C1 --> C4[Graduates]
+
+	D --> D1[guides/04-DSA.md]
+	D --> D2[guides/06-SYSTEM-DESIGN.md]
+	D --> D3[guides/09-CAREER-RESUME-INTERVIEW.md]
+	D --> D4[OUTCOMES.md]
+
+	E --> E1[guides/10-AI-TOOLS.md]
+	E --> E2[guides/11-AI-CODING-WORKFLOW.md]
+	E --> E3[guides/13-AI-ETHICS.md]
+
+	F[Platform Hub] --> F1[guides/platforms/PLATFORMS_INDEX.md]
+	F1 --> F2[GitHub Repos]
+	F1 --> F3[MOOCs]
+	F1 --> F4[YouTube]
+	F1 --> F5[Interview Platforms]
+
+	G[Navigation Aids] --> G1[GUIDE_SELECTION_MATRIX.md]
+	G --> G2[FAQ.md]
+	G --> G3[SIMILAR_PROFILES_AND_REFERENCES.md]
+	G --> G4[CONTRIBUTOR_SPOTLIGHTS.md]
+```
 
 ## Choose Your Path by Role
 
@@ -49,6 +90,12 @@ Note: No idea can be guaranteed as "never done before", but these are underserve
 
 ## Extended Documentation
 
+- One-page onboarding: [START_HERE.md](START_HERE.md)
+- Guide selection matrix: [GUIDE_SELECTION_MATRIX.md](GUIDE_SELECTION_MATRIX.md)
+- FAQ: [FAQ.md](FAQ.md)
+- 30/60/90 outcomes: [OUTCOMES.md](OUTCOMES.md)
+- Similar profiles and references: [SIMILAR_PROFILES_AND_REFERENCES.md](SIMILAR_PROFILES_AND_REFERENCES.md)
+- Contributor spotlights: [CONTRIBUTOR_SPOTLIGHTS.md](CONTRIBUTOR_SPOTLIGHTS.md)
 - Complete separate guides index: [guides/COMPLETE_CS_GUIDE_INDEX.md](guides/COMPLETE_CS_GUIDE_INDEX.md)
 - Platform-wise learning resources hub: [guides/platforms/PLATFORMS_INDEX.md](guides/platforms/PLATFORMS_INDEX.md)
 - FAST University detailed student and graduate hub: [guides/fast-university/FAST_UNIVERSITY_INDEX.md](guides/fast-university/FAST_UNIVERSITY_INDEX.md)
