@@ -1,0 +1,23 @@
+# FAST University Student and Graduate Resource Hub
+
+This section is designed for three groups:
+
+1. Applicants who want to join FAST University
+2. Current FAST students
+3. FAST graduates
+
+## Guides
+
+- [Guide for FAST Applicants](FAST_APPLICANTS_GUIDE.md)
+- [Guide for Current FAST Students](FAST_CURRENT_STUDENTS_GUIDE.md)
+- [Guide for FAST Graduates](FAST_GRADUATES_GUIDE.md)
+- [FAST Community Contributions and Helpful Profiles](FAST_CONTRIBUTION_SPOTLIGHTS.md)
+- [Safe Sharing Policy for FAST Materials](FAST_SHARING_SAFETY_POLICY.md)
+- [Resource Submission Template](FAST_RESOURCE_SUBMISSION_TEMPLATE.md)
+
+## Purpose
+
+- Centralize helpful and legal educational resources
+- Help students at each stage of academic journey
+- Share useful public contributions from FASTians and others
+- Avoid sharing private, copyrighted, or restricted material

@@ -31,6 +31,8 @@ This folder contains detailed, separate documents for each major heading in the 
 16. [Scholarships, Grants, and Student Benefits](16-SCHOLARSHIPS-AND-BENEFITS.md)
 17. [Productivity, Focus, and Well-Being](17-PRODUCTIVITY-AND-WELLBEING.md)
 18. [Tools and Platforms You Should Not Miss](18-BONUS-TOOLS-PLATFORMS.md)
+19. [Platform-Wise Detailed Learning Hub](platforms/PLATFORMS_INDEX.md)
+20. [FAST University Student and Graduate Hub](fast-university/FAST_UNIVERSITY_INDEX.md)
 
 ## How To Use
 
