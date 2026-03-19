@@ -18,6 +18,7 @@ Note: No idea can be guaranteed as "never done before", but these are underserve
 - Complete separate guides index: [guides/COMPLETE_CS_GUIDE_INDEX.md](guides/COMPLETE_CS_GUIDE_INDEX.md)
 - Platform-wise learning resources hub: [guides/platforms/PLATFORMS_INDEX.md](guides/platforms/PLATFORMS_INDEX.md)
 - FAST University detailed student and graduate hub: [guides/fast-university/FAST_UNIVERSITY_INDEX.md](guides/fast-university/FAST_UNIVERSITY_INDEX.md)
+- FAST link verification guide: [guides/fast-university/FAST_LINK_VERIFICATION_GUIDE.md](guides/fast-university/FAST_LINK_VERIFICATION_GUIDE.md)
 - Extended student handbook: [STUDENT_RESOURCE_GUIDE_EXTENDED.md](STUDENT_RESOURCE_GUIDE_EXTENDED.md)
 - Quick links index: [PLATFORMS_AND_RESOURCES_INDEX.md](PLATFORMS_AND_RESOURCES_INDEX.md)
 - Idea contribution format: [PROJECT_TEMPLATE.md](PROJECT_TEMPLATE.md)

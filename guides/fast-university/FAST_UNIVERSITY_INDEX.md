@@ -12,7 +12,7 @@ This section is designed for three groups:
 - [Guide for Current FAST Students](FAST_CURRENT_STUDENTS_GUIDE.md)
 - [Guide for FAST Graduates](FAST_GRADUATES_GUIDE.md)
 - [FAST Community Contributions and Helpful Profiles](FAST_CONTRIBUTION_SPOTLIGHTS.md)
-- [Safe Sharing Policy for FAST Materials](FAST_SHARING_SAFETY_POLICY.md)
+- [FAST Resource Link Verification Guide](FAST_LINK_VERIFICATION_GUIDE.md)
 - [Resource Submission Template](FAST_RESOURCE_SUBMISSION_TEMPLATE.md)
 
 ## Purpose
@@ -20,4 +20,4 @@ This section is designed for three groups:
 - Centralize helpful and legal educational resources
 - Help students at each stage of academic journey
 - Share useful public contributions from FASTians and others
-- Avoid sharing private, copyrighted, or restricted material
+- Keep shared links carefully verified, current, and trustworthy

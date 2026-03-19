@@ -24,3 +24,10 @@ This section organizes learning by platform type so students can quickly find th
 - Must have working, public link
 - Must avoid pirated or unauthorized material
 - Must include short reason why the resource is useful
+
+## Careful Link Handling
+
+- Prefer official sources where possible
+- Add `Last verified` date for frequently used links
+- Mark outdated links as `archival` instead of deleting useful history
+- Remove links that are broken, misleading, or untrusted
