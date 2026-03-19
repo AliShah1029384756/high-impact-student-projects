@@ -1,6 +1,17 @@
 # High-Impact CS Project Ideas (Student Edition)
 
+![Docs](https://img.shields.io/badge/docs-38+-blue)
+![Last Updated](https://img.shields.io/badge/last%20updated-2026--03--19-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-black)
+
 A curated list of practical software project ideas focused on real student and campus problems.
+
+## Quick Start Paths
+
+- Beginner path: [guides/01-CS-FOUNDATIONS.md](guides/01-CS-FOUNDATIONS.md) -> [guides/03-WEB-DEVELOPMENT.md](guides/03-WEB-DEVELOPMENT.md) -> [guides/14-30-DAY-GROWTH-PLAN.md](guides/14-30-DAY-GROWTH-PLAN.md)
+- FAST student path: [guides/fast-university/FAST_UNIVERSITY_INDEX.md](guides/fast-university/FAST_UNIVERSITY_INDEX.md)
+- Interview path: [guides/04-DSA.md](guides/04-DSA.md) -> [guides/06-SYSTEM-DESIGN.md](guides/06-SYSTEM-DESIGN.md) -> [guides/09-CAREER-RESUME-INTERVIEW.md](guides/09-CAREER-RESUME-INTERVIEW.md)
+- AI-assisted learning path: [guides/10-AI-TOOLS.md](guides/10-AI-TOOLS.md) -> [guides/11-AI-CODING-WORKFLOW.md](guides/11-AI-CODING-WORKFLOW.md) -> [guides/13-AI-ETHICS.md](guides/13-AI-ETHICS.md)
 
 ## Why This Repository
 
@@ -22,6 +33,8 @@ Note: No idea can be guaranteed as "never done before", but these are underserve
 - Extended student handbook: [STUDENT_RESOURCE_GUIDE_EXTENDED.md](STUDENT_RESOURCE_GUIDE_EXTENDED.md)
 - Quick links index: [PLATFORMS_AND_RESOURCES_INDEX.md](PLATFORMS_AND_RESOURCES_INDEX.md)
 - Idea contribution format: [PROJECT_TEMPLATE.md](PROJECT_TEMPLATE.md)
+- Link maintenance tracker: [LAST_VERIFIED.md](LAST_VERIFIED.md)
+- Change history: [CHANGELOG.md](CHANGELOG.md)
 
 ## 1. University Deadline Aggregator
 
