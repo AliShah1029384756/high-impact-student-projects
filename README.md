@@ -13,6 +13,12 @@ This repository focuses on:
 
 Note: No idea can be guaranteed as "never done before", but these are underserved and can be made unique with local context, language support, and strong execution.
 
+## Extended Documentation
+
+- Extended student handbook: [STUDENT_RESOURCE_GUIDE_EXTENDED.md](STUDENT_RESOURCE_GUIDE_EXTENDED.md)
+- Quick links index: [PLATFORMS_AND_RESOURCES_INDEX.md](PLATFORMS_AND_RESOURCES_INDEX.md)
+- Idea contribution format: [PROJECT_TEMPLATE.md](PROJECT_TEMPLATE.md)
+
 ## 1. University Deadline Aggregator
 
 ### Problem
