@@ -15,6 +15,7 @@ Note: No idea can be guaranteed as "never done before", but these are underserve
 
 ## Extended Documentation
 
+- Complete separate guides index: [guides/COMPLETE_CS_GUIDE_INDEX.md](guides/COMPLETE_CS_GUIDE_INDEX.md)
 - Extended student handbook: [STUDENT_RESOURCE_GUIDE_EXTENDED.md](STUDENT_RESOURCE_GUIDE_EXTENDED.md)
 - Quick links index: [PLATFORMS_AND_RESOURCES_INDEX.md](PLATFORMS_AND_RESOURCES_INDEX.md)
 - Idea contribution format: [PROJECT_TEMPLATE.md](PROJECT_TEMPLATE.md)
