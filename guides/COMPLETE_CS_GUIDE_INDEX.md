@@ -2,6 +2,16 @@
 
 This folder contains detailed, separate documents for each major heading in the complete student guide.
 
+## Quick Routes by Goal
+
+| Goal | Start here |
+|---|---|
+| Build fundamentals from scratch | [01-CS-FOUNDATIONS.md](01-CS-FOUNDATIONS.md) -> [03-WEB-DEVELOPMENT.md](03-WEB-DEVELOPMENT.md) -> [14-30-DAY-GROWTH-PLAN.md](14-30-DAY-GROWTH-PLAN.md) |
+| Prepare for internships/interviews | [04-DSA.md](04-DSA.md) -> [06-SYSTEM-DESIGN.md](06-SYSTEM-DESIGN.md) -> [09-CAREER-RESUME-INTERVIEW.md](09-CAREER-RESUME-INTERVIEW.md) |
+| Learn responsibly with AI | [10-AI-TOOLS.md](10-AI-TOOLS.md) -> [11-AI-CODING-WORKFLOW.md](11-AI-CODING-WORKFLOW.md) -> [13-AI-ETHICS.md](13-AI-ETHICS.md) |
+| FAST-focused guidance | [fast-university/FAST_UNIVERSITY_INDEX.md](fast-university/FAST_UNIVERSITY_INDEX.md) |
+| Platform discovery and repositories | [platforms/PLATFORMS_INDEX.md](platforms/PLATFORMS_INDEX.md) |
+
 ## Core Learning Documents
 
 1. [CS Foundations](01-CS-FOUNDATIONS.md)

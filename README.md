@@ -4,7 +4,30 @@
 ![Last Updated](https://img.shields.io/badge/last%20updated-2026--03--19-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-black)
 
+Updated stats: 40+ markdown guides and templates.
+
 A curated list of practical software project ideas focused on real student and campus problems.
+
+## At a Glance
+
+| What you need | Go here |
+|---|---|
+| Complete guide map | [guides/COMPLETE_CS_GUIDE_INDEX.md](guides/COMPLETE_CS_GUIDE_INDEX.md) |
+| Platform-wise resources | [guides/platforms/PLATFORMS_INDEX.md](guides/platforms/PLATFORMS_INDEX.md) |
+| FAST-specific guidance | [guides/fast-university/FAST_UNIVERSITY_INDEX.md](guides/fast-university/FAST_UNIVERSITY_INDEX.md) |
+| Link verification rules | [guides/fast-university/FAST_LINK_VERIFICATION_GUIDE.md](guides/fast-university/FAST_LINK_VERIFICATION_GUIDE.md) |
+| One-month execution plan | [guides/14-30-DAY-GROWTH-PLAN.md](guides/14-30-DAY-GROWTH-PLAN.md) |
+
+## Choose Your Path by Role
+
+| Role | Best starting files |
+|---|---|
+| Beginner CS student | [guides/01-CS-FOUNDATIONS.md](guides/01-CS-FOUNDATIONS.md), [guides/03-WEB-DEVELOPMENT.md](guides/03-WEB-DEVELOPMENT.md) |
+| FAST applicant | [guides/fast-university/FAST_APPLICANTS_GUIDE.md](guides/fast-university/FAST_APPLICANTS_GUIDE.md) |
+| Current FAST student | [guides/fast-university/FAST_CURRENT_STUDENTS_GUIDE.md](guides/fast-university/FAST_CURRENT_STUDENTS_GUIDE.md) |
+| FAST graduate/job seeker | [guides/fast-university/FAST_GRADUATES_GUIDE.md](guides/fast-university/FAST_GRADUATES_GUIDE.md), [guides/09-CAREER-RESUME-INTERVIEW.md](guides/09-CAREER-RESUME-INTERVIEW.md) |
+| Interview prep learner | [guides/04-DSA.md](guides/04-DSA.md), [guides/06-SYSTEM-DESIGN.md](guides/06-SYSTEM-DESIGN.md) |
+| AI-assisted learner | [guides/10-AI-TOOLS.md](guides/10-AI-TOOLS.md), [guides/11-AI-CODING-WORKFLOW.md](guides/11-AI-CODING-WORKFLOW.md), [guides/13-AI-ETHICS.md](guides/13-AI-ETHICS.md) |
 
 ## Quick Start Paths
 
@@ -195,3 +218,7 @@ Contributions are welcome:
 - better MVP scope definitions
 - implementation guides
 - sample architecture diagrams
+
+Before sharing new resources, please check:
+- [LAST_VERIFIED.md](LAST_VERIFIED.md)
+- [guides/fast-university/FAST_LINK_VERIFICATION_GUIDE.md](guides/fast-university/FAST_LINK_VERIFICATION_GUIDE.md)
