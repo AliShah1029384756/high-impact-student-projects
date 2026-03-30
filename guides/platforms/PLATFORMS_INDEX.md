@@ -12,6 +12,9 @@ This section organizes learning by platform type so students can quickly find th
 4. [Competitive Programming and Problem Solving Platforms](COMPETITIVE_PROGRAMMING_PLATFORMS.md)
 5. [Research, Papers, and Technical Reading Platforms](RESEARCH_AND_TECH_READING.md)
 6. [Career and Interview Platforms](CAREER_AND_INTERVIEW_PLATFORMS.md)
+7. [Ethical Hacking and Cybersecurity Platforms](ETHICAL_HACKING_AND_CYBERSECURITY.md)
+8. [Graphic Design and Video Editing Platforms](DESIGN_AND_EDITING_PLATFORMS.md)
+9. [Free Certification Paths](FREE_CERTIFICATION_PATHS.md)
 
 ## How To Use This Hub
 
