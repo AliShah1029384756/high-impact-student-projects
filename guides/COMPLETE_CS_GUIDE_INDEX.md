@@ -1,6 +1,6 @@
 # Complete CS Learning and Productivity Guide (Index)
 
-![Last Reviewed](https://img.shields.io/badge/last%20reviewed-2026--03--19-brightgreen)
+![Last Reviewed](https://img.shields.io/badge/last%20reviewed-2026--03--30-brightgreen)
 
 This folder contains detailed, separate documents for each major heading in the complete student guide.
 
@@ -63,8 +63,8 @@ This folder contains detailed, separate documents for each major heading in the 
 
 ## How To Use
 
-1. Start from `01-CS-FOUNDATIONS.md`.
+1. Start from 01-CS-FOUNDATIONS.md.
 2. Move sequentially through technical guides.
 3. Use AI guides only as learning support, not replacement.
 4. Follow the 30-day plan and track weekly progress.
-5. Review `15-SUGGESTED-OUTCOME.md` monthly to measure growth.
+5. Review 15-SUGGESTED-OUTCOME.md monthly to measure growth.

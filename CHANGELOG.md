@@ -7,6 +7,16 @@ All notable changes to this repository are documented in this file.
 - Link health automation workflow planned
 - Additional country-specific opportunity trackers planned
 
+## [2026-03-30]
+
+### Added
+- 12 career-acceleration guides (`guides/20` to `guides/31`) covering role tracks, timelines, project bank, internship kit, freelancing, open source, interview packs, productivity, and readiness checklists
+
+### Updated
+- README navigation and quick-start paths for the new guide set
+- Guide selector and complete index routes for new career-focused content
+- Standard metadata blocks and `Last Reviewed` badges added across the new guide set
+
 ## [2026-03-19]
 
 ### Added

@@ -26,3 +26,11 @@ Please include:
 - Avoid vague or overly broad project descriptions
 - Prefer real problems over clone apps
 - Keep writing clear and concise
+
+## Documentation Metadata Standard
+
+For new major guides, add:
+- `Last Reviewed` badge near the top
+- `## Metadata` section with category, audience, status, last reviewed, and review cycle
+
+Keep metadata aligned with `LAST_VERIFIED.md` whenever guide links or status are updated.
