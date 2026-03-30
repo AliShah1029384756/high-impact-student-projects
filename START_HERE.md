@@ -38,6 +38,19 @@ Use this if you are preparing for internships or entry-level jobs.
 Expected outcome:
 - You can present portfolio, projects, and interview readiness professionally.
 
+## Path 4: Career Accelerator (All-in-One)
+
+Use this if you want a practical, high-output path for internships, freelancing, and profile growth.
+
+1. Open [guides/20-ROLE-BASED-CAREER-TRACKS.md](guides/20-ROLE-BASED-CAREER-TRACKS.md)
+2. Plan execution in [guides/21-30-60-90-DAY-SKILL-PLANS.md](guides/21-30-60-90-DAY-SKILL-PLANS.md)
+3. Build from [guides/22-REAL-WORLD-PROJECT-IDEA-BANK.md](guides/22-REAL-WORLD-PROJECT-IDEA-BANK.md)
+4. Apply using [guides/23-INTERNSHIP-AND-JOB-HUNT-KIT.md](guides/23-INTERNSHIP-AND-JOB-HUNT-KIT.md)
+5. Polish profile via [guides/27-GITHUB-PROFILE-GROWTH.md](guides/27-GITHUB-PROFILE-GROWTH.md)
+
+Expected outcome:
+- You get a complete execution system from skill-building to applications.
+
 ## Need a Specific Goal?
 
 Use [GUIDE_SELECTION_MATRIX.md](GUIDE_SELECTION_MATRIX.md) to jump directly to the right documents.

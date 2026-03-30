@@ -13,6 +13,8 @@ This folder contains detailed, separate documents for each major heading in the 
 | Learn responsibly with AI | [10-AI-TOOLS.md](10-AI-TOOLS.md) -> [11-AI-CODING-WORKFLOW.md](11-AI-CODING-WORKFLOW.md) -> [13-AI-ETHICS.md](13-AI-ETHICS.md) |
 | FAST-focused guidance | [fast-university/FAST_UNIVERSITY_INDEX.md](fast-university/FAST_UNIVERSITY_INDEX.md) |
 | Platform discovery and repositories | [platforms/PLATFORMS_INDEX.md](platforms/PLATFORMS_INDEX.md) |
+| Build role-focused career path | [20-ROLE-BASED-CAREER-TRACKS.md](20-ROLE-BASED-CAREER-TRACKS.md) -> [21-30-60-90-DAY-SKILL-PLANS.md](21-30-60-90-DAY-SKILL-PLANS.md) -> [31-INDUSTRY-READY-CHECKLISTS.md](31-INDUSTRY-READY-CHECKLISTS.md) |
+| Internship and profile acceleration | [23-INTERNSHIP-AND-JOB-HUNT-KIT.md](23-INTERNSHIP-AND-JOB-HUNT-KIT.md) -> [26-INTERVIEW-PREP-PACKS.md](26-INTERVIEW-PREP-PACKS.md) -> [27-GITHUB-PROFILE-GROWTH.md](27-GITHUB-PROFILE-GROWTH.md) |
 
 ## Core Learning Documents
 
@@ -46,6 +48,18 @@ This folder contains detailed, separate documents for each major heading in the 
 19. [Free Courses and Certifications Hub](19-FREE-COURSES-AND-CERTIFICATIONS.md)
 20. [Platform-Wise Detailed Learning Hub](platforms/PLATFORMS_INDEX.md)
 21. [FAST University Student and Graduate Hub](fast-university/FAST_UNIVERSITY_INDEX.md)
+22. [Role-Based Career Tracks](20-ROLE-BASED-CAREER-TRACKS.md)
+23. [30-60-90 Day Skill Plans](21-30-60-90-DAY-SKILL-PLANS.md)
+24. [Real-World Project Idea Bank](22-REAL-WORLD-PROJECT-IDEA-BANK.md)
+25. [Internship and Job Hunt Kit](23-INTERNSHIP-AND-JOB-HUNT-KIT.md)
+26. [Freelancing Starter Hub](24-FREELANCING-STARTER-HUB.md)
+27. [Open Source Contribution Guide](25-OPEN-SOURCE-CONTRIBUTION-GUIDE.md)
+28. [Interview Prep Packs](26-INTERVIEW-PREP-PACKS.md)
+29. [GitHub Profile Growth Guide](27-GITHUB-PROFILE-GROWTH.md)
+30. [University Success Pack](28-UNIVERSITY-SUCCESS-PACK.md)
+31. [Student Productivity System](29-STUDENT-PRODUCTIVITY-SYSTEM.md)
+32. [AI for Students (Practical Use)](30-AI-FOR-STUDENTS-PRACTICAL.md)
+33. [Industry-Ready Checklists](31-INDUSTRY-READY-CHECKLISTS.md)
 
 ## How To Use
 

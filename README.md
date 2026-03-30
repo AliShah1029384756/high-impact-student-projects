@@ -1,10 +1,10 @@
 # High-Impact CS Project Ideas (Student Edition)
 
-![Docs](https://img.shields.io/badge/docs-46+-blue)
-![Last Updated](https://img.shields.io/badge/last%20updated-2026--03--19-brightgreen)
+![Docs](https://img.shields.io/badge/docs-58+-blue)
+![Last Updated](https://img.shields.io/badge/last%20updated-2026--03--30-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-black)
 
-Updated stats: 46+ markdown guides and templates.
+Updated stats: 58+ markdown guides and templates.
 
 A curated list of practical software project ideas focused on real student and campus problems.
 
@@ -77,6 +77,7 @@ flowchart TD
 - Interview path: [guides/04-DSA.md](guides/04-DSA.md) -> [guides/06-SYSTEM-DESIGN.md](guides/06-SYSTEM-DESIGN.md) -> [guides/09-CAREER-RESUME-INTERVIEW.md](guides/09-CAREER-RESUME-INTERVIEW.md)
 - AI-assisted learning path: [guides/10-AI-TOOLS.md](guides/10-AI-TOOLS.md) -> [guides/11-AI-CODING-WORKFLOW.md](guides/11-AI-CODING-WORKFLOW.md) -> [guides/13-AI-ETHICS.md](guides/13-AI-ETHICS.md)
 - Free courses and certification path: [guides/19-FREE-COURSES-AND-CERTIFICATIONS.md](guides/19-FREE-COURSES-AND-CERTIFICATIONS.md) -> [guides/platforms/MOOCS_AND_STRUCTURED_COURSES.md](guides/platforms/MOOCS_AND_STRUCTURED_COURSES.md) -> [guides/16-SCHOLARSHIPS-AND-BENEFITS.md](guides/16-SCHOLARSHIPS-AND-BENEFITS.md)
+- Career acceleration path: [guides/20-ROLE-BASED-CAREER-TRACKS.md](guides/20-ROLE-BASED-CAREER-TRACKS.md) -> [guides/21-30-60-90-DAY-SKILL-PLANS.md](guides/21-30-60-90-DAY-SKILL-PLANS.md) -> [guides/31-INDUSTRY-READY-CHECKLISTS.md](guides/31-INDUSTRY-READY-CHECKLISTS.md)
 
 ## Why This Repository
 
@@ -102,6 +103,18 @@ Note: No idea can be guaranteed as "never done before", but these are underserve
 - Cybersecurity platform guide: [guides/platforms/ETHICAL_HACKING_AND_CYBERSECURITY.md](guides/platforms/ETHICAL_HACKING_AND_CYBERSECURITY.md)
 - Graphic design and editing guide: [guides/platforms/DESIGN_AND_EDITING_PLATFORMS.md](guides/platforms/DESIGN_AND_EDITING_PLATFORMS.md)
 - Free certification paths: [guides/platforms/FREE_CERTIFICATION_PATHS.md](guides/platforms/FREE_CERTIFICATION_PATHS.md)
+- Role-based career tracks: [guides/20-ROLE-BASED-CAREER-TRACKS.md](guides/20-ROLE-BASED-CAREER-TRACKS.md)
+- 30-60-90 day skill plans: [guides/21-30-60-90-DAY-SKILL-PLANS.md](guides/21-30-60-90-DAY-SKILL-PLANS.md)
+- Real-world project idea bank: [guides/22-REAL-WORLD-PROJECT-IDEA-BANK.md](guides/22-REAL-WORLD-PROJECT-IDEA-BANK.md)
+- Internship and job hunt kit: [guides/23-INTERNSHIP-AND-JOB-HUNT-KIT.md](guides/23-INTERNSHIP-AND-JOB-HUNT-KIT.md)
+- Freelancing starter hub: [guides/24-FREELANCING-STARTER-HUB.md](guides/24-FREELANCING-STARTER-HUB.md)
+- Open source contribution guide: [guides/25-OPEN-SOURCE-CONTRIBUTION-GUIDE.md](guides/25-OPEN-SOURCE-CONTRIBUTION-GUIDE.md)
+- Interview prep packs: [guides/26-INTERVIEW-PREP-PACKS.md](guides/26-INTERVIEW-PREP-PACKS.md)
+- GitHub profile growth guide: [guides/27-GITHUB-PROFILE-GROWTH.md](guides/27-GITHUB-PROFILE-GROWTH.md)
+- University success pack: [guides/28-UNIVERSITY-SUCCESS-PACK.md](guides/28-UNIVERSITY-SUCCESS-PACK.md)
+- Student productivity system: [guides/29-STUDENT-PRODUCTIVITY-SYSTEM.md](guides/29-STUDENT-PRODUCTIVITY-SYSTEM.md)
+- AI for students practical guide: [guides/30-AI-FOR-STUDENTS-PRACTICAL.md](guides/30-AI-FOR-STUDENTS-PRACTICAL.md)
+- Industry-ready checklists: [guides/31-INDUSTRY-READY-CHECKLISTS.md](guides/31-INDUSTRY-READY-CHECKLISTS.md)
 - FAST University detailed student and graduate hub: [guides/fast-university/FAST_UNIVERSITY_INDEX.md](guides/fast-university/FAST_UNIVERSITY_INDEX.md)
 - FAST link verification guide: [guides/fast-university/FAST_LINK_VERIFICATION_GUIDE.md](guides/fast-university/FAST_LINK_VERIFICATION_GUIDE.md)
 - Extended student handbook: [STUDENT_RESOURCE_GUIDE_EXTENDED.md](STUDENT_RESOURCE_GUIDE_EXTENDED.md)
