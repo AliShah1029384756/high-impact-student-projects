@@ -101,6 +101,7 @@ Note: No idea can be guaranteed as "never done before", but these are underserve
 - FAST University detailed student and graduate hub: [guides/fast-university/FAST_UNIVERSITY_INDEX.md](guides/fast-university/FAST_UNIVERSITY_INDEX.md)
 - FAST link verification guide: [guides/fast-university/FAST_LINK_VERIFICATION_GUIDE.md](guides/fast-university/FAST_LINK_VERIFICATION_GUIDE.md)
 - Extended student handbook: [STUDENT_RESOURCE_GUIDE_EXTENDED.md](STUDENT_RESOURCE_GUIDE_EXTENDED.md)
+- Free courses and certifications guide: [guides/19-FREE-COURSES-AND-CERTIFICATIONS.md](guides/19-FREE-COURSES-AND-CERTIFICATIONS.md)
 - Quick links index: [PLATFORMS_AND_RESOURCES_INDEX.md](PLATFORMS_AND_RESOURCES_INDEX.md)
 - Idea contribution format: [PROJECT_TEMPLATE.md](PROJECT_TEMPLATE.md)
 - Link maintenance tracker: [LAST_VERIFIED.md](LAST_VERIFIED.md)

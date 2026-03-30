@@ -26,3 +26,25 @@
 - Focus on one course at a time
 - Finish assignments before starting next module
 - Publish outcomes in GitHub README
+
+## Domain-Specific Add-ons
+
+### Ethical Hacking (Legal Labs)
+- PortSwigger Academy: https://portswigger.net/web-security
+- TryHackMe: https://tryhackme.com/
+- Hack The Box Academy: https://academy.hackthebox.com/
+
+### Graphic Design
+- Canva Design School: https://www.canva.com/designschool/
+- Figma Learn: https://help.figma.com/hc/en-us/categories/360002051613
+- Adobe Creative tutorials: https://helpx.adobe.com/creative-cloud/tutorials-explore.html
+
+### Video Editing
+- DaVinci Resolve Training: https://www.blackmagicdesign.com/products/davinciresolve/training
+- Adobe Premiere tutorials: https://helpx.adobe.com/premiere-pro/tutorials.html
+- OBS knowledge base: https://obsproject.com/kb/
+
+### Certification-Friendly Free Paths
+- freeCodeCamp certifications: https://www.freecodecamp.org/learn/
+- Cisco Skills for All: https://skillsforall.com/
+- Postman Student Expert: https://studentexpert.postman.com/
