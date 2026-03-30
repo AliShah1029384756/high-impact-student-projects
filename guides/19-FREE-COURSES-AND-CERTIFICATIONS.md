@@ -9,6 +9,17 @@ Practical list of free or scholarship-friendly courses for students who want por
 3. Build one project after each course.
 4. Add certificate links and project outcomes in your GitHub README.
 
+## Quick Role-Based Track (Simple Pick)
+
+| Goal | Starter Course | Next Course | Output to Publish |
+|---|---|---|---|
+| Web Developer | CS50x | The Odin Project | 2 frontend apps + 1 API app |
+| Backend Developer | Node.js Learn | MongoDB University | Auth API + database schema docs |
+| Cybersecurity Beginner | PortSwigger Academy | TryHackMe | Web security notes + legal lab write-up |
+| Graphic Designer | Canva Design School | Figma Learn | 3 portfolio posters + 1 UI kit |
+| Video Editor | DaVinci Resolve Training | Premiere Tutorials | 2 short edits + 1 tutorial reel |
+| AI/Data Beginner | Kaggle Learn | Hugging Face Course | 1 analysis notebook + 1 model summary |
+
 ## 1) Core Computer Science and Programming
 
 - CS50x (Harvard): https://cs50.harvard.edu/x/
@@ -67,6 +78,14 @@ Use only legal labs and authorized environments.
 - Microsoft Learn achievements: https://learn.microsoft.com/training/
 - Postman Student Expert: https://studentexpert.postman.com/
 
+## Top Free Certifications (High ROI)
+
+- freeCodeCamp: Responsive Web Design + JavaScript Algorithms
+- Postman Student Expert: API fundamentals and testing credibility
+- Cisco Skills for All: Intro Cybersecurity / Networking badges
+- Microsoft Learn paths: Azure, GitHub, and AI fundamentals
+- GitHub Skills: practical Git and collaboration proof
+
 ## 8) Financial Aid and Student Discounts
 
 - Coursera Financial Aid: https://www.coursera.org/financial-aid
@@ -82,6 +101,27 @@ Use only legal labs and authorized environments.
 - Weeks 7-8: Domain addon (Cybersecurity or Design or Editing)
 - Weeks 9-10: Build 2 portfolio projects
 - Weeks 11-12: Certifications + README polish + LinkedIn update
+
+## 30-Day Simple Execution Template
+
+### Template A (Coding)
+- Week 1: one foundation course module daily
+- Week 2: one practical mini project
+- Week 3: one intermediate module + one project refactor
+- Week 4: certificate completion + README update
+
+### Template B (Design/Editing)
+- Week 1: tools and interface basics
+- Week 2: guided practice challenges
+- Week 3: portfolio-quality output set
+- Week 4: publish final showcase and learning summary
+
+## Portfolio Proof Checklist
+
+- Course completion screenshot or badge link
+- 1 GitHub project per completed track
+- README section: what you learned, what you built
+- 3-5 bullet outcomes in CV package
 
 ## Upload Checklist (Before Sharing Publicly)
 

@@ -50,6 +50,22 @@ AI tools can speed up learning when used responsibly.
 - Gradescope: assessment and grading workflow
 - Langotalk: language learning practice
 
+## Quick Picks by Student Type
+
+- Beginner coder: ChatGPT + Codeium + freeCodeCamp curriculum
+- Project builder: Copilot + v0 + Postman
+- Exam prep student: QuillBot + Speechify + Notion
+- Research student: Perplexity + Elicit + Consensus
+- Design/editing learner: Canva + Figma + DaVinci tutorials
+
+## Simple Weekly AI Routine (No Overload)
+
+- Monday: plan weekly tasks with one AI tool
+- Tuesday to Thursday: use AI only for explanations and debugging
+- Friday: write project summary in your own words
+- Saturday: improve one old project using AI review
+- Sunday: no-tool day for concept revision
+
 ## How To Choose a Tool
 
 - For explanations: ChatGPT, Claude
@@ -62,3 +78,4 @@ AI tools can speed up learning when used responsibly.
 - Ignoring security and data privacy
 - Relying on one output without verification
 - Treating community tool lists as permanent truth; always verify current pricing and privacy policy
+- Letting AI replace learning effort; always build and explain independently

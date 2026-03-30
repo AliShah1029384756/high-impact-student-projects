@@ -76,6 +76,7 @@ flowchart TD
 - FAST student path: [guides/fast-university/FAST_UNIVERSITY_INDEX.md](guides/fast-university/FAST_UNIVERSITY_INDEX.md)
 - Interview path: [guides/04-DSA.md](guides/04-DSA.md) -> [guides/06-SYSTEM-DESIGN.md](guides/06-SYSTEM-DESIGN.md) -> [guides/09-CAREER-RESUME-INTERVIEW.md](guides/09-CAREER-RESUME-INTERVIEW.md)
 - AI-assisted learning path: [guides/10-AI-TOOLS.md](guides/10-AI-TOOLS.md) -> [guides/11-AI-CODING-WORKFLOW.md](guides/11-AI-CODING-WORKFLOW.md) -> [guides/13-AI-ETHICS.md](guides/13-AI-ETHICS.md)
+- Free courses and certification path: [guides/19-FREE-COURSES-AND-CERTIFICATIONS.md](guides/19-FREE-COURSES-AND-CERTIFICATIONS.md) -> [guides/platforms/MOOCS_AND_STRUCTURED_COURSES.md](guides/platforms/MOOCS_AND_STRUCTURED_COURSES.md) -> [guides/16-SCHOLARSHIPS-AND-BENEFITS.md](guides/16-SCHOLARSHIPS-AND-BENEFITS.md)
 
 ## Why This Repository
 
