@@ -14,6 +14,7 @@ This section is designed for three groups:
 - [Guide for Current FAST Students](FAST_CURRENT_STUDENTS_GUIDE.md)
 - [Guide for FAST Graduates](FAST_GRADUATES_GUIDE.md)
 - [FAST Community Contributions and Helpful Profiles](FAST_CONTRIBUTION_SPOTLIGHTS.md)
+- [FAST Shared Resources Draft](FAST_SHARED_RESOURCES_DRAFT.md)
 - [FAST Resource Link Verification Guide](FAST_LINK_VERIFICATION_GUIDE.md)
 - [Resource Submission Template](FAST_RESOURCE_SUBMISSION_TEMPLATE.md)
 
