@@ -1,4 +1,13 @@
-# AI for Students (Practical Use)
+﻿# AI for Students (Practical Use)
+
+![Last Reviewed](https://img.shields.io/badge/last%20reviewed-2026--03--30-brightgreen)
+
+## Metadata
+- Category: Career Acceleration
+- Audience: Students and early-career developers
+- Status: Active
+- Last reviewed: 2026-03-30
+- Review cycle: Monthly
 
 This guide focuses on practical, ethical AI usage for learning and productivity.
 
@@ -36,3 +45,5 @@ This guide focuses on practical, ethical AI usage for learning and productivity.
 - 10-AI-TOOLS.md
 - 11-AI-CODING-WORKFLOW.md
 - 13-AI-ETHICS.md
+
+

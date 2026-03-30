@@ -1,4 +1,13 @@
-# Interview Prep Packs
+﻿# Interview Prep Packs
+
+![Last Reviewed](https://img.shields.io/badge/last%20reviewed-2026--03--30-brightgreen)
+
+## Metadata
+- Category: Career Acceleration
+- Audience: Students and early-career developers
+- Status: Active
+- Last reviewed: 2026-03-30
+- Review cycle: Monthly
 
 This guide organizes interview preparation into practical packs by topic.
 
@@ -61,3 +70,5 @@ Prepare 6-8 real stories from projects, teamwork, and deadlines.
 - 04-DSA.md
 - 06-SYSTEM-DESIGN.md
 - 09-CAREER-RESUME-INTERVIEW.md
+
+

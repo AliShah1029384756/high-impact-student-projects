@@ -1,4 +1,13 @@
-# Industry-Ready Checklists
+﻿# Industry-Ready Checklists
+
+![Last Reviewed](https://img.shields.io/badge/last%20reviewed-2026--03--30-brightgreen)
+
+## Metadata
+- Category: Career Acceleration
+- Audience: Students and early-career developers
+- Status: Active
+- Last reviewed: 2026-03-30
+- Review cycle: Monthly
 
 Use these checklists to decide if you are ready for internships or junior roles.
 
@@ -45,3 +54,5 @@ Use these checklists to decide if you are ready for internships or junior roles.
 - 20-ROLE-BASED-CAREER-TRACKS.md
 - 23-INTERNSHIP-AND-JOB-HUNT-KIT.md
 - 26-INTERVIEW-PREP-PACKS.md
+
+

@@ -1,4 +1,13 @@
-# Internship and Job Hunt Kit
+﻿# Internship and Job Hunt Kit
+
+![Last Reviewed](https://img.shields.io/badge/last%20reviewed-2026--03--30-brightgreen)
+
+## Metadata
+- Category: Career Acceleration
+- Audience: Students and early-career developers
+- Status: Active
+- Last reviewed: 2026-03-30
+- Review cycle: Monthly
 
 This guide is a practical system for applying consistently with better quality.
 
@@ -47,3 +56,5 @@ Send within 24 hours:
 - 09-CAREER-RESUME-INTERVIEW.md
 - 26-INTERVIEW-PREP-PACKS.md
 - 27-GITHUB-PROFILE-GROWTH.md
+
+

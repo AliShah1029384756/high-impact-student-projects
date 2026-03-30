@@ -1,4 +1,13 @@
-# University Success Pack
+﻿# University Success Pack
+
+![Last Reviewed](https://img.shields.io/badge/last%20reviewed-2026--03--30-brightgreen)
+
+## Metadata
+- Category: Career Acceleration
+- Audience: Students and early-career developers
+- Status: Active
+- Last reviewed: 2026-03-30
+- Review cycle: Monthly
 
 This guide helps students balance academics, projects, and career growth.
 
@@ -34,3 +43,5 @@ This guide helps students balance academics, projects, and career growth.
 - 14-30-DAY-GROWTH-PLAN.md
 - 17-PRODUCTIVITY-AND-WELLBEING.md
 - fast-university/FAST_UNIVERSITY_INDEX.md
+
+

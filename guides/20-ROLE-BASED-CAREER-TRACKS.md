@@ -1,4 +1,13 @@
-# Role-Based Career Tracks (Student Edition)
+﻿# Role-Based Career Tracks (Student Edition)
+
+![Last Reviewed](https://img.shields.io/badge/last%20reviewed-2026--03--30-brightgreen)
+
+## Metadata
+- Category: Career Acceleration
+- Audience: Students and early-career developers
+- Status: Active
+- Last reviewed: 2026-03-30
+- Review cycle: Monthly
 
 Use this guide to choose one focused career direction instead of learning everything at once.
 
@@ -102,3 +111,5 @@ Target files:
 - If you prefer data insights: start with Data Analyst.
 - If you like defense and risk analysis: start with Cybersecurity.
 - If you enjoy quality and edge cases: start with QA.
+
+

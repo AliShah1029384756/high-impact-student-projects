@@ -1,4 +1,13 @@
-# GitHub Profile Growth Guide
+﻿# GitHub Profile Growth Guide
+
+![Last Reviewed](https://img.shields.io/badge/last%20reviewed-2026--03--30-brightgreen)
+
+## Metadata
+- Category: Career Acceleration
+- Audience: Students and early-career developers
+- Status: Active
+- Last reviewed: 2026-03-30
+- Review cycle: Monthly
 
 Use this guide to present your work clearly for recruiters, mentors, and collaborators.
 
@@ -39,3 +48,5 @@ Pin 4-6 repositories:
 - 09-CAREER-RESUME-INTERVIEW.md
 - 25-OPEN-SOURCE-CONTRIBUTION-GUIDE.md
 - 23-INTERNSHIP-AND-JOB-HUNT-KIT.md
+
+

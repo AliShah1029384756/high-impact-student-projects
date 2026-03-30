@@ -1,4 +1,13 @@
-# Freelancing Starter Hub
+﻿# Freelancing Starter Hub
+
+![Last Reviewed](https://img.shields.io/badge/last%20reviewed-2026--03--30-brightgreen)
+
+## Metadata
+- Category: Career Acceleration
+- Audience: Students and early-career developers
+- Status: Active
+- Last reviewed: 2026-03-30
+- Review cycle: Monthly
 
 Start freelancing with clear positioning, simple offers, and client-safe communication.
 
@@ -39,3 +48,5 @@ Use this line:
 - 22-REAL-WORLD-PROJECT-IDEA-BANK.md
 - 23-INTERNSHIP-AND-JOB-HUNT-KIT.md
 - platforms/CAREER_AND_INTERVIEW_PLATFORMS.md
+
+

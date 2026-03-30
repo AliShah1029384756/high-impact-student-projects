@@ -1,4 +1,13 @@
-# Open Source Contribution Guide
+﻿# Open Source Contribution Guide
+
+![Last Reviewed](https://img.shields.io/badge/last%20reviewed-2026--03--30-brightgreen)
+
+## Metadata
+- Category: Career Acceleration
+- Audience: Students and early-career developers
+- Status: Active
+- Last reviewed: 2026-03-30
+- Review cycle: Monthly
 
 Use this guide to move from learning alone to collaborating in public repositories.
 
@@ -44,3 +53,5 @@ Use this guide to move from learning alone to collaborating in public repositori
 - 08-OPEN-SOURCE-COLLABORATION.md
 - 27-GITHUB-PROFILE-GROWTH.md
 - 23-INTERNSHIP-AND-JOB-HUNT-KIT.md
+
+

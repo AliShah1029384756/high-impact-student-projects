@@ -1,4 +1,13 @@
-# Student Productivity System
+﻿# Student Productivity System
+
+![Last Reviewed](https://img.shields.io/badge/last%20reviewed-2026--03--30-brightgreen)
+
+## Metadata
+- Category: Career Acceleration
+- Audience: Students and early-career developers
+- Status: Active
+- Last reviewed: 2026-03-30
+- Review cycle: Monthly
 
 Use this simple operating system to stay consistent without burnout.
 
@@ -34,3 +43,5 @@ Use this simple operating system to stay consistent without burnout.
 - 17-PRODUCTIVITY-AND-WELLBEING.md
 - 21-30-60-90-DAY-SKILL-PLANS.md
 - 15-SUGGESTED-OUTCOME.md
+
+

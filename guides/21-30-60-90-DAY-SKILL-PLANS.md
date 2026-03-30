@@ -1,4 +1,13 @@
-# 30-60-90 Day Skill Plans
+﻿# 30-60-90 Day Skill Plans
+
+![Last Reviewed](https://img.shields.io/badge/last%20reviewed-2026--03--30-brightgreen)
+
+## Metadata
+- Category: Career Acceleration
+- Audience: Students and early-career developers
+- Status: Active
+- Last reviewed: 2026-03-30
+- Review cycle: Monthly
 
 This guide gives practical execution plans by phase so progress stays measurable.
 
@@ -51,3 +60,5 @@ Use this weekly template:
 - 14-30-DAY-GROWTH-PLAN.md
 - 15-SUGGESTED-OUTCOME.md
 - OUTCOMES.md
+
+

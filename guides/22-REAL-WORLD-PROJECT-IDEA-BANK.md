@@ -1,4 +1,13 @@
-# Real-World Project Idea Bank
+﻿# Real-World Project Idea Bank
+
+![Last Reviewed](https://img.shields.io/badge/last%20reviewed-2026--03--30-brightgreen)
+
+## Metadata
+- Category: Career Acceleration
+- Audience: Students and early-career developers
+- Status: Active
+- Last reviewed: 2026-03-30
+- Review cycle: Monthly
 
 Use this guide when you want projects that look practical to recruiters and clients.
 
@@ -49,3 +58,5 @@ Score each project out of 10:
 - PROJECT_TEMPLATE.md
 - 03-WEB-DEVELOPMENT.md
 - 09-CAREER-RESUME-INTERVIEW.md
+
+
